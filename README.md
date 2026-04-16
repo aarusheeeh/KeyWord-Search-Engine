@@ -2,7 +2,7 @@
 
 #### **Project Overview**
 This project implements a **Simple Keyword Search Engine** using the **Vector Space Model (VSM)**. It utilizes the **TF-IDF (Term Frequency-Inverse Document Frequency)** algorithm and **Cosine Similarity** to rank and retrieve documents from the **CISI Dataset** (a standard Information Retrieval benchmark).
-
+**Dataset Link-** https://www.kaggle.com/datasets/dmaso01dsta/cisi-a-dataset-for-information-retrieval
 #### **Core Features**
 * **Automated Data Pipeline:** Direct integration with the Kaggle API for dataset retrieval.
 * **Text Normalization:** Implements Case Folding, Tokenization, and Noise Removal.
@@ -42,7 +42,3 @@ For your **Methodology** section (and for your Viva), you must explain the autom
 
 
 
-### **Submission Checklist (Due 20 April 2026)**
-* Include this **README** content at the beginning or end of your 10-page document.
-* [cite_start]Ensure the code logic for the Kaggle download is properly commented as per the **mandatory guidelines**[cite: 11, 15].
-* Be ready to explain this download process during your **Viva (21–23 April)** if the professor asks how you sourced your data.
