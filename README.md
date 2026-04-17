@@ -20,7 +20,7 @@ This project implements a **Simple Keyword Search Engine** using the **Vector Sp
 2.  **Run the Script:**
     * Execute the cells in order. The script will automatically download and parse the **CISI dataset**.
 3.  **Search:**
-    * Call the `search_with_scores("your keywords here")` function to see ranked results.
+    * `search_with_scores("your keywords here")` function will show the ranked results.
 
 #### **Methodology**
 The engine follows a standard IR pipeline:
