@@ -15,7 +15,7 @@ This project implements a **Simple Keyword Search Engine** using the **Vector Sp
 * Required Libraries: `pandas`, `scikit-learn`, `nltk`, `kaggle`
 
 #### **Installation & Execution**
-1.  **Kaggle Setup:** * Generate a `kaggle.json` file from your Kaggle Account Settings (API section).
+1.  **Kaggle Setup:** * Generate a `kaggle.json` file from your Kaggle Account Settings's API section (Settings > API > Create New Token/Create Legacy API Key).
     * Upload this file when prompted by the script.
 2.  **Run the Script:**
     * Execute the cells in order. The script will automatically download and parse the **CISI dataset**.
