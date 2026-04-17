@@ -33,7 +33,7 @@ The engine follows a standard IR pipeline:
 
 ### **How the Dataset is Downloaded**
 
-For your **Methodology** section (and for your Viva), you must explain the automated download process. Here is how the code handles it:
+Here is how the code handles automated download process:
 
 1.  **Authentication:** The code uses the `kaggle.json` file, which contains your username and private API key, to authenticate your session with Kaggle's servers.
 2.  **The API Call:** It executes the command `!kaggle datasets download -d dmaso01dsta/cisi-a-dataset-for-information-retrieval`. This communicates directly with Kaggle to find the specific **CISI dataset** repository.
